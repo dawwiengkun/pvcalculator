@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "pvcalculator",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6e040381-06e0-4ef3-8b0d-37c3322cc969",
+			"database_name": "pv_calculator_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
